@@ -12,6 +12,7 @@
   
 .red {
     background-color: #db2828;
+    flex-grow: 3;
 }
 
 .green {
