@@ -2,14 +2,12 @@
     display: flex;
     background-color: rgba(0, 0, 255, 0.3);
     height: 300px;
-    width: 500px;
 }
 
 .flex-item {
     padding: 40px;
     color: white;
     font-weight: bold;
-    flex-basis: 120px;
 }
   
 .red {
@@ -21,7 +19,8 @@
 }
 
 .blue {
+    margin-left: auto;
+    margin-bottom: auto;
     background-color: #6435c9;
-    flex-shrink: 5;
 }
   
