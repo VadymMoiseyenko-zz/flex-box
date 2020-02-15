@@ -2,6 +2,7 @@
     display: flex;
     background-color: rgba(0, 0, 255, 0.3);
     height: 300px;
+    width: 500px;
 }
 
 .flex-item {
@@ -21,5 +22,6 @@
 
 .blue {
     background-color: #6435c9;
+    flex-shrink: 5;
 }
   
