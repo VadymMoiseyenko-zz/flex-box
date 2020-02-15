@@ -1,22 +1,24 @@
 .flex-container {
     display: flex;
+    background-color: rgba(0, 0, 255, 0.3);
+    height: 300px
 }
 
 .flex-item {
     padding: 10px;
     color: white;
     font-weight: bold;
-  }
+}
   
 .red {
-background-color: #db2828;
+    background-color: #db2828;
 }
 
 .green {
-background-color: #21ba45;
+    background-color: #21ba45;
 }
 
 .blue {
-background-color: #6435c9;
+    background-color: #6435c9;
 }
   
