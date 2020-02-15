@@ -12,15 +12,15 @@
   
 .red {
     background-color: #db2828;
+    order: 3
 }
 
 .green {
     background-color: #21ba45;
+    
 }
 
 .blue {
-    margin-left: auto;
-    margin-bottom: auto;
     background-color: #6435c9;
 }
   
