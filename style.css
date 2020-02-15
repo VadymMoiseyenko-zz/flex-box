@@ -1,18 +1,22 @@
+.flex-container {
+    display: flex;
+}
+
 .flex-item {
     padding: 10px;
     color: white;
     font-weight: bold;
   }
   
-  .red {
-    background-color: #db2828;
-  }
-  
-  .green {
-    background-color: #21ba45;
-  }
-  
-  .blue {
-    background-color: #6435c9;
-  }
+.red {
+background-color: #db2828;
+}
+
+.green {
+background-color: #21ba45;
+}
+
+.blue {
+background-color: #6435c9;
+}
   
