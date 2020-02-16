@@ -2,6 +2,8 @@
     display: flex;
     background-color: rgba(0, 0, 255, 0.3);
     height: 300px;
+    justify-content: center;
+    align-items: center;
 }
 
 .flex-item {
@@ -12,7 +14,6 @@
   
 .red {
     background-color: #db2828;
-    order: 3
 }
 
 .green {
